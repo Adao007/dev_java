@@ -1,1 +1,2 @@
-# GradleTest
+# Readme file
+5/15/2024 - moved java education to this file for naming convention... 
