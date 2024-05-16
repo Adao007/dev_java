@@ -1,0 +1,5 @@
+Alice 9 3.5
+David 10 3.8
+Jimmy 10 2.8
+Jenny 9 3.3
+Ana 9 2.9

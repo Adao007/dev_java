@@ -1,0 +1,15 @@
+Jupiter|Cadena|01/03/1998|Traveling With Infant|
+Anthony|Dao|04/11/1997|Traveling With Infant| 
+Clara|Dao|10/15/1998|Economy| 
+Tracey|Lam|06/16/1974|First Class| 
+Azalea|Dao|02/14/1994|Economy|
+Charlie|Dao|12/21/1961|First Class|
+John|Snake|09/30/1985|Military|
+Ba|Lam|06/13/1945|Elderly|
+Tony|Tonster|04/12/1997|Economy|
+Romona|Flowers|02/28/1992|Economy|
+Nel|Patel|03/21/1991|First Class| 
+Knives|Chau|05/02/2003|Economy| 
+Old-Man|Weathers|09/27/1931|Elderly| 
+Lucas|Slimm|08/04/2008|Military|
+Lazy|Guy|01/01/1990|Economy|
