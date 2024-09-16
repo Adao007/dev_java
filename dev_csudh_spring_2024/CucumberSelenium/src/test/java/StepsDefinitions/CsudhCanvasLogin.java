@@ -20,10 +20,8 @@ public class CsudhCanvasLogin {
 	@Given("the user is on login page")
 	public void the_user_is_on_login_page() {
 		System.out.println("Open browser to CSUDH Canvas login page");
-		
 		String projectPath = System.getProperty("user.dir");
 		System.out.println("Path is :" + projectPath);
-		
 		System.setProperty("webdriver.gecko.driver", projectPath + "/src/test/resources/drivers/geckodriver.exe");
 		
 		driver = new FirefoxDriver();
