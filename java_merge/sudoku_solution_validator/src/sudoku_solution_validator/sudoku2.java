@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class soduku2 {
+public class sudoku2 {
 	// Struct for threads to check data
 	public static class SudokuGrid {
 		private int[][] grid; 		// variable to hold grid from input.
